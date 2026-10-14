@@ -12,7 +12,7 @@
 <img width="1254" height="2094" alt="image" src="https://github.com/user-attachments/assets/d0168cf6-8730-424e-b0a0-32bdc2acb804" />
 
 
-## 🧠 Project Overvie
+## 🧠 Project Overview
 
 This project explores the development of a machine learning classification model using an Artificial Neural Network (ANN). The notebook covers the complete machine learning workflow, from data preprocessing and exploratory data analysis through to feature preparation, model training, evaluation, and performance analysis.
 
